@@ -104,4 +104,10 @@ When the installation is complete, it's important to verify that the compiler is
   
   ```
 
-## INFINITE LOOPERS
+## Team Members
+
+•	Osama Jamil
+•	Ahmad Fares
+•	Jad Berjawi
+•	Muhammad Sanaullah Kiyani
+•	Haleema Khan
